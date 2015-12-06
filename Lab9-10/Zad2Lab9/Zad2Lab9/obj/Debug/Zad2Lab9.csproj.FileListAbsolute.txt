@@ -1,0 +1,9 @@
+c:\users\krystian\documents\visual studio 2015\Projects\Zad2Lab9\Zad2Lab9\bin\Debug\Zad2Lab9.exe.config
+c:\users\krystian\documents\visual studio 2015\Projects\Zad2Lab9\Zad2Lab9\bin\Debug\Zad2Lab9.exe
+c:\users\krystian\documents\visual studio 2015\Projects\Zad2Lab9\Zad2Lab9\bin\Debug\Zad2Lab9.pdb
+c:\users\krystian\documents\visual studio 2015\Projects\Zad2Lab9\Zad2Lab9\obj\Debug\Zad2Lab9.csprojResolveAssemblyReference.cache
+c:\users\krystian\documents\visual studio 2015\Projects\Zad2Lab9\Zad2Lab9\obj\Debug\Zad2Lab9.exe
+c:\users\krystian\documents\visual studio 2015\Projects\Zad2Lab9\Zad2Lab9\obj\Debug\Zad2Lab9.pdb
+C:\Users\Krystian\Documents\GitHub\Laborki\Laborki910\Zad2Lab9\Zad2Lab9\bin\Debug\Zad2Lab9.exe.config
+C:\Users\Krystian\Documents\GitHub\Laborki\Laborki910\Zad2Lab9\Zad2Lab9\obj\Debug\Zad2Lab9.exe
+C:\Users\Krystian\Documents\GitHub\Laborki\Laborki910\Zad2Lab9\Zad2Lab9\obj\Debug\Zad2Lab9.pdb

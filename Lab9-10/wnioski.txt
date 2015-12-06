@@ -1,0 +1,23 @@
+
+zad 1.
+a)
+W przypadku, gdy ¿adnna metoda nie ma deklaracji virtual to znaczy ¿e funkcja pochodna przys³ania dzia³anie funkcji bazowej pomimo jej dziedziczenia.
+W tym przypadku program wyswietla na STDOUT:
+	Bazowa
+	Pochodna
+	Bazowa
+
+b) W przypadku gdy klasa bazowa ma deklaracje virtual, a klasa pochodna override otrzymujemy taki wynik dzia³ania:
+
+	Bazowa
+	Pochodna
+	Pochodna
+Klasa pochodna przys³ania klasê bazow¹. Natomiast gdy wkaŸnik bazowy wskazuje na pochodn¹ to wykona siê funkcja klasy Pochodnej co widaæ w wynikach dzialania.
+
+c)
+W wypadku gdy klasa bazowa ma deklaracje final i virtual, a w klasie pochodnej nie ma zadnej deklaracji program nie kompiluje siê.
+Spowodowane jest to tym, ¿e nie mozna dziedziczyc po klasie ktora ma zdeklarowanej final. Pochodna nie moze dziedziczyc z funkcji bazowej.
+
+zad 2.
+Szablon jest to klasa generyczna. Odopwiada on za wyœwietlanie dostarczonych mu argumentow.
+W funkcji glownej main przekazuje argumenty, lecz musze okreœliæ jakiego s¹ typu. Dzieki temu klasa Szablon wyswietli przekazane elementy.
