@@ -1,0 +1,10 @@
+﻿  operacje.cpp
+c:\users\krystian\desktop\studia\iii semestr\programowanieobjektowe\laborki\vektorystl\mojewektorystl\wektorystl\wektorystl\operacje.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\krystian\desktop\studia\iii semestr\programowanieobjektowe\laborki\vektorystl\mojewektorystl\wektorystl\wektorystl\operacje.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\krystian\desktop\studia\iii semestr\programowanieobjektowe\laborki\vektorystl\mojewektorystl\wektorystl\wektorystl\operacje.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\krystian\desktop\studia\iii semestr\programowanieobjektowe\laborki\vektorystl\mojewektorystl\wektorystl\wektorystl\operacje.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\krystian\desktop\studia\iii semestr\programowanieobjektowe\laborki\vektorystl\mojewektorystl\wektorystl\wektorystl\operacje.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\krystian\desktop\studia\iii semestr\programowanieobjektowe\laborki\vektorystl\mojewektorystl\wektorystl\wektorystl\operacje.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\krystian\desktop\studia\iii semestr\programowanieobjektowe\laborki\vektorystl\mojewektorystl\wektorystl\wektorystl\operacje.cpp(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\krystian\desktop\studia\iii semestr\programowanieobjektowe\laborki\vektorystl\mojewektorystl\wektorystl\wektorystl\operacje.cpp(105): warning C4018: '<': signed/unsigned mismatch
+  WektorySTL.vcxproj -> C:\Users\Krystian\Desktop\STUDIA\III semestr\ProgramowanieObjektowe\Laborki\VektorySTL\MojeWektorySTL\WektorySTL\Debug\WektorySTL.exe
